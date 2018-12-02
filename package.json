@@ -1,0 +1,23 @@
+{
+  "name": "es6_name_ranges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s97712/ES6NameRanges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s97712/ES6NameRanges/issues"
+  },
+  "homepage": "https://github.com/s97712/ES6NameRanges#readme",
+  "devDependencies": {
+    "regenerate": "^1.4.0",
+    "unicode-11.0.0": "^0.7.8"
+  }
+}
